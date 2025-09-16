@@ -22,7 +22,7 @@ export default function LoginPage() {
                             <label
                                 htmlFor="email"
                                 className="block text-sm font-medium">
-                                Username
+                                Email
                             </label>
                             <input
                                 type="email"
